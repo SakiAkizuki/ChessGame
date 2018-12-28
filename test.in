@@ -1,0 +1,10 @@
+game human human
+setup
+- e8
++ k a6
+- e1
++ K b1
+- a6
++ k a4
+- c2
+done
